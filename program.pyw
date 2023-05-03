@@ -1,6 +1,5 @@
 # MODIFIED
 # VERSION 2
-# NEW BRANCH
 
 from tkinter import *
 import random
